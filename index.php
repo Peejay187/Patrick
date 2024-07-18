@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Ayaw ko nga
+    Ayaw ko na
 </body>
 </html>
